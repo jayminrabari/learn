@@ -1,3 +1,5 @@
+Q -> 1 :- SPA vs PWA
+
 **Single Page Applications (SPA)** and **Progressive Web Apps (PWA)** are both popular modern web development approaches, but they differ in how they deliver content, their capabilities, and their use cases. Here's a comparison:
 
 ### **Single Page Application (SPA)**
